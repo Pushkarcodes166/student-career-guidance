@@ -1,0 +1,461 @@
+ {
+  "Science": {
+    "careers": [
+      {
+        "id": "engineering_general",
+        "title": "Engineering (General)",
+        "description": "Professional engineering across multiple disciplines — design, analysis, manufacturing, and technology development.",
+        "eligibility": "12th with Physics & Mathematics; minimum aggregate as per college/university.",
+        "recommended_12th_subjects": ["Physics", "Mathematics", "Chemistry"],
+        "entrance_exams": ["JEE Main", "JEE Advanced (for IITs)", "State CETs (e.g., MHTCET)"],
+        "roadmap_steps": [
+          "Complete 10+2 with PCM and required percentage.",
+          "Prepare for and appear in national/state engineering entrance exams (JEE Main, State CETs).",
+          "Participate in counselling/allotment; select college & branch based on rank/cutoff.",
+          "Enroll in B.E/B.Tech (4 years). Focus on projects, internships, and placements.",
+          "Optional: Pursue M.Tech/MS (2 years) or MBA/industry certifications; or enter workforce."
+        ],
+        "undergraduate_options": ["B.E", "B.Tech", "Dual degree (B.Tech+M.Tech)"],
+        "postgraduate_options": ["M.Tech", "MS", "MBA", "Ph.D."],
+        "popular_specializations": ["Computer Science", "Mechanical", "Civil", "Electrical", "Electronics", "Chemical", "Aerospace"],
+        "possible_career_paths": ["Core engineering roles", "R&D", "Product management", "Consulting", "Entrepreneurship", "Higher studies"],
+        "typical_timeline": "4 years (UG) + 2 years (PG optional)",
+        "notes": "Cutoffs vary drastically by college & specialization. Encourage internships and coding/soft-skill practice."
+      },
+      {
+        "id": "computer_science_it",
+        "title": "Computer Science & IT",
+        "description": "Software development, systems design, data engineering, AI/ML, cybersecurity and related tech roles.",
+        "eligibility": "12th with PCM; proficiency in mathematics recommended.",
+        "recommended_12th_subjects": ["Mathematics", "Physics", "Computer Science (if available)"],
+        "entrance_exams": ["JEE Main", "JEE Advanced", "State CETs", "Direct college exams (e.g., VITEEE)"],
+        "roadmap_steps": [
+          "Complete 12th with strong math foundation.",
+          "Prepare for entrance exams and secure admission to a reputable CS/IT program.",
+          "Complete B.Tech/B.E in CS/IT; build portfolio (projects, GitHub), internships and competitions.",
+          "Choose electives in AI, ML, Data Science, Cybersecurity, or Cloud computing.",
+          "Enter industry as SW engineer or pursue MSc/MS in specialized areas."
+        ],
+        "undergraduate_options": ["B.Tech/B.E (CSE/IT)", "B.Sc Computer Science"],
+        "postgraduate_options": ["M.Tech (CSE)", "MSc (CS)", "MS abroad", "Ph.D."],
+        "popular_specializations": ["Artificial Intelligence", "Data Science", "Cybersecurity", "Cloud Computing", "Software Engineering"],
+        "possible_career_paths": ["Software Engineer", "Data Scientist", "ML Engineer", "DevOps Engineer", "Security Analyst"],
+        "typical_timeline": "4 years (UG) + optional 1-3 years (PG)",
+        "notes": "Strong practical portfolio and internships matter more than brand sometimes. Online certifications helpful."
+      },
+      {
+        "id": "mechanical_engineering",
+        "title": "Mechanical Engineering",
+        "description": "Design, analysis, and manufacturing of mechanical systems, thermal systems and automation.",
+        "eligibility": "12th with PCM.",
+        "recommended_12th_subjects": ["Physics", "Mathematics", "Chemistry"],
+        "entrance_exams": ["JEE Main", "State CETs"],
+        "roadmap_steps": [
+          "Finish 12th with PCM.",
+          "Appear for engineering entrance exams and secure a mechanical engineering seat.",
+          "Complete B.E/B.Tech in Mechanical; focus on CAD, Thermodynamics, Manufacturing labs.",
+          "Take internships in manufacturing, automotive or robotics; learn CAD/CAM tools.",
+          "Consider M.Tech in specialized areas or enter industries like automotive, aerospace, energy."
+        ],
+        "undergraduate_options": ["B.Tech/B.E (Mechanical)"],
+        "postgraduate_options": ["M.Tech (Thermal/Design/Manufacturing)", "MBA", "Ph.D."],
+        "popular_specializations": ["Design Engineering", "Thermal Engineering", "Automotive", "Robotics"],
+        "possible_career_paths": ["Design Engineer", "Manufacturing Engineer", "Maintenance Engineer", "R&D"],
+        "typical_timeline": "4 years UG + 2 years PG (optional)",
+        "notes": "Strong practical skills and internships increase employability in industry."
+      },
+      {
+        "id": "civil_engineering",
+        "title": "Civil Engineering",
+        "description": "Planning, designing, constructing and maintaining infrastructure: buildings, roads, bridges and water systems.",
+        "eligibility": "12th with PCM.",
+        "recommended_12th_subjects": ["Mathematics", "Physics", "Chemistry"],
+        "entrance_exams": ["JEE Main", "State CETs", "Architecture/NATA for related fields"],
+        "roadmap_steps": [
+          "Complete 12th with PCM.",
+          "Appear for entrance exams; choose Civil branch in college.",
+          "Complete B.E/B.Tech in Civil; focus on surveying, structural analysis, materials.",
+          "Intern with construction firms; learn software (AutoCAD, STAAD Pro, ETABS).",
+          "Pursue M.Tech, structural engineering or join construction/project management roles."
+        ],
+        "undergraduate_options": ["B.Tech/B.E (Civil)"],
+        "postgraduate_options": ["M.Tech (Structural/Geotech)", "MBA (Construction Management)"],
+        "popular_specializations": ["Structural", "Geotechnical", "Transportation", "Environmental Engineering"],
+        "possible_career_paths": ["Site Engineer", "Structural Engineer", "Project Manager", "Consultant"],
+        "typical_timeline": "4 years UG + 2 years PG (optional)",
+        "notes": "Field visits and internships provide practical exposure; safety & regulatory knowledge important."
+      },
+      {
+        "id": "electrical_electronics",
+        "title": "Electrical & Electronics Engineering (EEE/ECE)",
+        "description": "Work on power systems, circuits, electronics, communication systems and embedded devices.",
+        "eligibility": "12th with PCM.",
+        "recommended_12th_subjects": ["Physics", "Mathematics", "Chemistry"],
+        "entrance_exams": ["JEE Main", "JEE Advanced", "State CETs"],
+        "roadmap_steps": [
+          "Finish 12th with PCM.",
+          "Clear engineering entrance exams and join EEE/ECE program.",
+          "During UG, take labs in electronics, circuits, signal processing and communications.",
+          "Internships in telecom, electronics manufacturing or power utilities.",
+          "Pursue specialized PG (Power systems, VLSI) or industry roles."
+        ],
+        "undergraduate_options": ["B.Tech/B.E (EEE/ECE)"],
+        "postgraduate_options": ["M.Tech (VLSI/Power/Electronics)", "Ph.D."],
+        "popular_specializations": ["VLSI", "Embedded Systems", "Power Systems", "Telecommunications"],
+        "possible_career_paths": ["Hardware Engineer", "Embedded Systems Developer", "Power Engineer", "Telecom Engineer"],
+        "typical_timeline": "4 years UG + 2 years PG (optional)",
+        "notes": "Hands-on projects (IoT, embedded) are highly valuable."
+      },
+      {
+        "id": "aerospace_engineering",
+        "title": "Aerospace & Aeronautical Engineering",
+        "description": "Design and development of aircraft, spacecraft, and related systems.",
+        "eligibility": "12th with PCM; strong physics & math background.",
+        "recommended_12th_subjects": ["Physics", "Mathematics", "Chemistry"],
+        "entrance_exams": ["JEE Main/Advanced", "State CETs; institute-specific tests"],
+        "roadmap_steps": [
+          "Complete 12th with strong PCM performance.",
+          "Clear entrance exams and secure admission to an aerospace program.",
+          "Complete B.Tech/B.E in Aerospace; focus on aerodynamics, propulsion and structures.",
+          "Intern at aerospace companies/ISRO/DRDO or in aircraft maintenance organizations.",
+          "Pursue M.Tech or specialized roles in design, testing, or space research."
+        ],
+        "undergraduate_options": ["B.Tech/B.E (Aerospace)"],
+        "postgraduate_options": ["M.Tech (Aerospace)", "MS/Ph.D."],
+        "popular_specializations": ["Propulsion", "Aerodynamics", "Avionics"],
+        "possible_career_paths": ["Aerospace Engineer", "Flight Test Engineer", "R&D"],
+        "typical_timeline": "4 years UG + 2 years PG (optional)",
+        "notes": "Opportunities with defense, space agencies and private aerospace firms; internships competitive."
+      },
+      {
+        "id": "biomedical_engineering",
+        "title": "Biomedical / Bioengineering",
+        "description": "Application of engineering principles to healthcare: medical devices, imaging, prosthetics and biomaterials.",
+        "eligibility": "12th with PCM (some programs accept PCB + Maths).",
+        "recommended_12th_subjects": ["Physics", "Mathematics", "Biology"],
+        "entrance_exams": ["JEE Main (some colleges)", "Institute-specific tests", "State CETs"],
+        "roadmap_steps": [
+          "Complete 12th with PCM/PCB depending on institute requirements.",
+          "Secure admission into biomedical engineering program.",
+          "During UG, focus on biomedical instruments, biomechanics and clinical internships.",
+          "Collaborate with hospitals for device testing; build multidisciplinary projects.",
+          "Pursue M.Tech/M.S or clinical engineering roles; research opportunities in med-tech startups."
+        ],
+        "undergraduate_options": ["B.Tech (Biomedical)", "B.E (Biomedical)"],
+        "postgraduate_options": ["M.Tech (Biomedical)", "M.S", "Ph.D."],
+        "popular_specializations": ["Medical Imaging", "Biomechanics", "Biomaterials"],
+        "possible_career_paths": ["Medical Device Engineer", "Clinical Engineer", "R&D", "Regulatory Affairs"],
+        "typical_timeline": "4 years UG + 2 years PG (optional)",
+        "notes": "Strong cross-disciplinary collaboration with hospitals and clinicians is beneficial."
+      },
+      {
+        "id": "biotechnology",
+        "title": "Biotechnology & Life Sciences",
+        "description": "Study and application of biological systems for health, agriculture, industry and environment.",
+        "eligibility": "12th with PCB (PCM acceptable for some programs).",
+        "recommended_12th_subjects": ["Biology", "Chemistry", "Mathematics/Physics (if available)"],
+        "entrance_exams": ["National/State level biotech/university tests", "Some institutes accept JEE/NEET scores"],
+        "roadmap_steps": [
+          "Complete 12th with PCB/PCM as per college requirement.",
+          "Take entrance tests and join B.Tech/B.Sc in Biotechnology or related programs.",
+          "Gain lab experience, internships in biotech firms, and project work in molecular biology.",
+          "Consider MSc/M.Tech in Biotechnology or specialized diplomas.",
+          "Pursue research, pharma/biotech industry roles or Ph.D. for academic careers."
+        ],
+        "undergraduate_options": ["B.Tech (Biotechnology)", "B.Sc (Biotechnology/Biochemistry/Microbiology)"],
+        "postgraduate_options": ["M.Sc", "M.Tech", "Ph.D."],
+        "popular_specializations": ["Genetic Engineering", "Microbiology", "Bioinformatics", "Bioprocess Engineering"],
+        "possible_career_paths": ["Biotech Researcher", "Quality Control", "Clinical Research", "Bioinformatics"],
+        "typical_timeline": "3-4 years UG + 2 years PG (optional) + Ph.D. if chosen",
+        "notes": "Lab exposure and research internships are crucial; industry experience valuable for job roles."
+      },
+      {
+        "id": "medical_mbbs",
+        "title": "Medical (MBBS/BDS/AYUSH)",
+        "description": "Clinical practice and medical research; MBBS leads to physician/medical specialist careers; BDS for dentistry; AYUSH for traditional medicine.",
+        "eligibility": "12th with PCB and required aggregate; NEET for MBBS/BDS; AYUSH has separate counselling.",
+        "recommended_12th_subjects": ["Biology", "Chemistry", "Physics"],
+        "entrance_exams": ["NEET-UG (MBBS/BDS)", "State NEET counselling", "NTA counselling for All India quota"],
+        "roadmap_steps": [
+          "Complete 12th with PCB with high marks.",
+          "Prepare for and clear NEET-UG; secure a seat in MBBS/BDS/AYUSH through counselling.",
+          "Complete MBBS (5.5 years including internship) or BDS (5 years) or AYUSH program.",
+          "Complete internship/house-surgeon tenure and register with Medical Council.",
+          "Optionally pursue MD/MS/DNB (3 years) specialization or practice as a general physician."
+        ],
+        "undergraduate_options": ["MBBS", "BDS", "BAMS/BHMS/BNYS (AYUSH)"],
+        "postgraduate_options": ["MD", "MS", "DNB", "M.Ch", "DM", "Ph.D."],
+        "popular_specializations": ["General Medicine", "Surgery", "Pediatrics", "Orthopedics", "Cardiology (PG)"],
+        "possible_career_paths": ["Clinical Practice", "Medical Research", "Public Health", "Hospital Administration"],
+        "typical_timeline": "5.5 years UG (incl. internship) + 3 years PG (optional)",
+        "notes": "Highly competitive; high NEET rank required for top government colleges."
+      },
+      {
+        "id": "pharmacy",
+        "title": "Pharmacy",
+        "description": "Pharmaceutical sciences: drug development, manufacturing, clinical trials and regulatory affairs.",
+        "eligibility": "12th with PCB/PCM depending on course.",
+        "recommended_12th_subjects": ["Chemistry", "Biology", "Physics/Mathematics"],
+        "entrance_exams": ["State/University entrance tests; some accept NEET/JEE scores for integrated programs"],
+        "roadmap_steps": [
+          "Complete 12th with requisite subjects.",
+          "Appear for university/state entrance exams and select B.Pharm program.",
+          "Complete B.Pharm (4 years) with practicals and internships in pharma companies.",
+          "Options: M.Pharm, Pharm.D. (clinical pharmacy), or industry roles in QA/QC, R&D.",
+          "Possibility to pursue Ph.D. or regulatory/clinical research careers."
+        ],
+        "undergraduate_options": ["B.Pharm", "Diploma in Pharmacy (D.Pharm)", "Pharm.D"],
+        "postgraduate_options": ["M.Pharm", "Pharm.D (if not taken UG)", "Ph.D."],
+        "popular_specializations": ["Pharmaceutics", "Pharmacology", "Quality Assurance", "Clinical Pharmacy"],
+        "possible_career_paths": ["Pharmacist", "R&D Scientist", "Regulatory Affairs", "Clinical Research"],
+        "typical_timeline": "4 years UG + 2 years PG (optional)",
+        "notes": "Clinical pharmacy (Pharm.D) leads to hospital pharmacy careers; pharma industry opportunities widely available."
+      },
+      {
+        "id": "nursing_allied",
+        "title": "Nursing & Allied Health Sciences",
+        "description": "Clinical support roles: nursing, physiotherapy, occupational therapy, radiography, lab technology.",
+        "eligibility": "12th with PCB (varies by course).",
+        "recommended_12th_subjects": ["Biology", "Chemistry", "Physics"],
+        "entrance_exams": ["State/college-level allied health entrance tests; some direct admissions"],
+        "roadmap_steps": [
+          "Complete 12th with PCB or relevant subjects.",
+          "Apply for B.Sc Nursing, BPT (Physiotherapy), BMLT (Medical Lab Tech) or diploma courses.",
+          "Complete UG program with clinical rotations and internships in hospitals.",
+          "Register with respective councils (e.g., Nursing Council) and join healthcare settings.",
+          "Optionally pursue M.Sc, specialized certifications, or research."
+        ],
+        "undergraduate_options": ["B.Sc Nursing", "BPT (Physiotherapy)", "BASLP (Audiology & Speech-Language Pathology)", "BMLT"],
+        "postgraduate_options": ["M.Sc Nursing", "MPT", "Specialized diplomas"],
+        "popular_specializations": ["Critical Care Nursing", "Pediatric Nursing", "Cardiac Care", "Physiotherapy specialties"],
+        "possible_career_paths": ["Staff Nurse", "Physiotherapist", "Lab Technician", "Clinical Specialist"],
+        "typical_timeline": "3-4 years UG + 2 years PG (optional)",
+        "notes": "High demand and job stability; clinical experience crucial."
+      },
+      {
+        "id": "architecture",
+        "title": "Architecture",
+        "description": "Design and planning of buildings, urban spaces; blend of creativity, technical skill and site knowledge.",
+        "eligibility": "12th with PCM/PCB/Arts; many colleges require specific boards' marks.",
+        "recommended_12th_subjects": ["Mathematics", "Art & Design (if available)", "Physics"],
+        "entrance_exams": ["NATA", "JEE Paper II (Architecture) - where applicable", "Institute-specific tests"],
+        "roadmap_steps": [
+          "Complete 12th with required subjects and build a portfolio (sketches/designs).",
+          "Appear for NATA/JEE (Paper II) and secure admission to B.Arch (5 years).",
+          "Complete B.Arch with studio projects, internships and site visits.",
+          "Register with Council of Architecture (where required) and practice as an architect.",
+          "Options: M.Arch, urban design, interior design, conservation, or start a design firm."
+        ],
+        "undergraduate_options": ["B.Arch (5 years)"],
+        "postgraduate_options": ["M.Arch", "M.Plan", "Specialized diplomas"],
+        "popular_specializations": ["Urban Design", "Sustainable Architecture", "Interior Design"],
+        "possible_career_paths": ["Architect", "Urban Planner", "Interior Designer", "Conservation Specialist"],
+        "typical_timeline": "5 years UG + 2 years PG (optional)",
+        "notes": "Portfolio quality and design sensibility matter greatly; combine technical and creative skills."
+      },
+      {
+        "id": "pure_sciences",
+        "title": "Pure Sciences (Physics / Chemistry / Mathematics / Biology)",
+        "description": "Academic and research-oriented careers in core scientific disciplines leading to teaching, research, and industry roles.",
+        "eligibility": "12th with relevant science subject combination (PCM or PCB).",
+        "recommended_12th_subjects": ["Physics", "Chemistry", "Mathematics", "Biology (depending on chosen discipline)"],
+        "entrance_exams": ["University entrance exams for B.Sc; IISER/JEST/JAM for advanced programs", "IIT-JAM for PG in sciences"],
+        "roadmap_steps": [
+          "Select B.Sc in chosen subject(s) after 12th.",
+          "During UG, focus on rigorous coursework, labs, and undergraduate research projects.",
+          "Pursue M.Sc / M.Phil in specialized areas; clear exams like IIT JAM for admissions to premier institutes.",
+          "Undertake Ph.D. for research & academic positions or join R&D labs/industry.",
+          "Optionally move into teaching (college/university), research institutes, or interdisciplinary sectors (data science, finance)."
+        ],
+        "undergraduate_options": ["B.Sc (Physics/Chemistry/Mathematics/Biology)", "Integrated MSc programs"],
+        "postgraduate_options": ["M.Sc", "M.Phil", "M.Tech (interdisciplinary)", "Ph.D."],
+        "popular_specializations": ["Theoretical/Experimental Physics", "Organic/Inorganic Chemistry", "Applied Mathematics", "Molecular Biology"],
+        "possible_career_paths": ["Research Scientist", "University Lecturer", "R&D in industry", "Data Scientist (with additional skills)"],
+        "typical_timeline": "3 years UG + 2 years PG + 3-5 years Ph.D. (if chosen)",
+        "notes": "Research skills, publications, and strong academic performance are critical for top roles."
+      },
+      {
+        "id": "data_science_ai",
+        "title": "Data Science, AI & Analytics",
+        "description": "Interdisciplinary field using statistics, programming and domain knowledge to extract insights from data and build intelligent systems.",
+        "eligibility": "12th with PCM and strong math background preferred.",
+        "recommended_12th_subjects": ["Mathematics", "Computer Science", "Statistics (if available)"],
+        "entrance_exams": ["Entrance via UG CS/Statistics/Math programs; later specialization via PG entrance tests or university admissions"],
+        "roadmap_steps": [
+          "Complete 12th with strong mathematics foundation and basic programming exposure.",
+          "Pursue B.Sc/B.Tech in CS/Statistics/Mathematics or related fields.",
+          "Learn programming (Python/R), statistics, machine learning libraries and build projects.",
+          "Internships in data/ML teams; consider specialized PG (M.Tech/ MSc (DS)/MS) or certifications.",
+          "Work as Data Analyst/Scientist/ML Engineer or pursue Ph.D. in AI/ML for research roles."
+        ],
+        "undergraduate_options": ["B.Tech (CSE)", "B.Sc (Statistics/Mathematics/CS)"],
+        "postgraduate_options": ["M.Tech (AI/DS)", "MSc (Data Science)", "MS abroad", "Ph.D."],
+        "popular_specializations": ["Machine Learning", "Deep Learning", "NLP", "Computer Vision", "Big Data"],
+        "possible_career_paths": ["Data Scientist", "ML Engineer", "Researcher", "Business Analyst"],
+        "typical_timeline": "4 years UG + 1-2 years PG (optional)",
+        "notes": "Portfolio of projects, competitions (Kaggle), and internships are key differentiators."
+      },
+      {
+        "id": "environmental_science",
+        "title": "Environmental Science & Engineering",
+        "description": "Study of environment, ecology, pollution control, sustainable technologies and policy.",
+        "eligibility": "12th with PCB/PCM depending on program.",
+        "recommended_12th_subjects": ["Biology", "Chemistry", "Physics", "Mathematics"],
+        "entrance_exams": ["University/state entrance tests; some institutes have their own tests"],
+        "roadmap_steps": [
+          "Complete 12th with required subjects and apply for B.Sc/ B.Tech Environmental Science/Engineering.",
+          "During UG, focus on ecology, environmental chemistry, pollution control and fieldwork.",
+          "Intern with environmental NGOs, labs or government agencies.",
+          "Pursue M.Sc/M.Tech in Environmental Science or related policy/management courses.",
+          "Work in environmental consulting, research, government regulatory bodies, or sustainability roles in industry."
+        ],
+        "undergraduate_options": ["B.Sc (Environmental Science)", "B.Tech (Environmental Engineering)"],
+        "postgraduate_options": ["M.Sc", "M.Tech", "MBA (Environment Management)"],
+        "popular_specializations": ["Pollution Control", "Environmental Policy", "Climate Science"],
+        "possible_career_paths": ["Environmental Consultant", "Researcher", "Policy Analyst", "Sustainability Manager"],
+        "typical_timeline": "3-4 years UG + 2 years PG (optional)",
+        "notes": "Fieldwork and interdisciplinary skills (policy, law, tech) increase employability."
+      },
+      {
+        "id": "agriculture_horticulture",
+        "title": "Agricultural Sciences & Horticulture",
+        "description": "Careers in modern agriculture, crop science, agronomy, agritech and sustainable food systems.",
+        "eligibility": "12th with PCB/PCM (varies by course and college).",
+        "recommended_12th_subjects": ["Biology", "Chemistry", "Physics/Mathematics"],
+        "entrance_exams": ["State agricultural university entrance tests; ICAR AIEEA (for some seats)"],
+        "roadmap_steps": [
+          "Complete 12th and apply to agricultural universities (B.Sc Agri, B.Sc Horticulture).",
+          "Engage in practical farm training, internships and agri-projects.",
+          "Pursue M.Sc/ Ph.D. or specialized diplomas; learn agritech tools, precision agriculture.",
+          "Work in agri-based industries, research institutes, government extension services, or start agribusiness."
+        ],
+        "undergraduate_options": ["B.Sc Agriculture", "B.Sc Horticulture", "B.Tech (Agricultural Engineering)"],
+        "postgraduate_options": ["M.Sc Agriculture", "Ph.D."],
+        "popular_specializations": ["Agronomy", "Plant Breeding", "Soil Science", "Agri-Business"],
+        "possible_career_paths": ["Agricultural Scientist", "Extension Officer", "Agri-Entrepreneur", "R&D"],
+        "typical_timeline": "3-4 years UG + 2 years PG (optional)",
+        "notes": "Rapidly evolving sector with agri-tech and sustainability opportunities."
+      },
+      {
+        "id": "veterinary_science",
+        "title": "Veterinary Science",
+        "description": "Animal healthcare, livestock management, veterinary research and public health roles.",
+        "eligibility": "12th with PCB; competitive entrance exams for BVSc & AH.",
+        "recommended_12th_subjects": ["Biology", "Chemistry", "Physics"],
+        "entrance_exams": ["State/national veterinary entrance tests (varies)"],
+        "roadmap_steps": [
+          "Complete 12th with PCB and apply to BVSc & AH programs.",
+          "Undergo practical clinical training and internships in veterinary hospitals/farms.",
+          "Graduate (BVSc) and obtain registration/licensing where required.",
+          "Pursue specialization via MVSc or Ph.D., or work in public health, research, or animal husbandry."
+        ],
+        "undergraduate_options": ["BVSc & AH"],
+        "postgraduate_options": ["MVSc", "Ph.D."],
+        "popular_specializations": ["Small Animal Practice", "Large Animal Practice", "Veterinary Pathology"],
+        "possible_career_paths": ["Veterinarian", "Livestock Inspector", "Researcher", "Public Health Specialist"],
+        "typical_timeline": "5 years UG + 2-3 years PG (optional)",
+        "notes": "Field-heavy career; government jobs and private practice are common paths."
+      },
+      {
+        "id": "forensic_science",
+        "title": "Forensic Science",
+        "description": "Application of scientific methods to crime investigation: forensic biology, chemistry, toxicology and digital forensics.",
+        "eligibility": "12th with PCB/PCM depending on program.",
+        "recommended_12th_subjects": ["Biology", "Chemistry", "Physics"],
+        "entrance_exams": ["University-level entrance tests; some institutes have specialized programs"],
+        "roadmap_steps": [
+          "Complete 12th and enroll in B.Sc Forensic Science or related course.",
+          "Gain practical lab experience in forensic techniques and internships with forensic labs or police departments.",
+          "Pursue M.Sc in Forensic Science or specialized certifications in forensic technology.",
+          "Work with law enforcement, forensic labs, or private consultancy; pursue Ph.D. for advanced research."
+        ],
+        "undergraduate_options": ["B.Sc Forensic Science", "B.Sc (Chemistry/Biology) with forensic electives"],
+        "postgraduate_options": ["M.Sc Forensic Science", "Ph.D."],
+        "popular_specializations": ["Forensic Biology", "Toxicology", "Digital Forensics"],
+        "possible_career_paths": ["Forensic Analyst", "Crime Lab Technician", "Digital Forensic Expert"],
+        "typical_timeline": "3 years UG + 2 years PG (optional)",
+        "notes": "Interdisciplinary skillset; legal and ethical understanding important."
+      },
+      {
+        "id": "marine_science_oceanography",
+        "title": "Marine Science & Oceanography",
+        "description": "Study of oceans, marine life, coastal ecosystems and marine resource management.",
+        "eligibility": "12th with PCB/PCM as per program.",
+        "recommended_12th_subjects": ["Biology", "Chemistry", "Physics"],
+        "entrance_exams": ["University-level admissions; specialized marine science institutes have criteria"],
+        "roadmap_steps": [
+          "Complete 12th and apply for B.Sc in Marine Science or related programs.",
+          "Participate in fieldwork, cruises and lab internships to gain practical oceanographic skills.",
+          "Pursue M.Sc and Ph.D. in marine science for research careers.",
+          "Work with research institutes, government marine departments, fisheries, or environmental NGOs."
+        ],
+        "undergraduate_options": ["B.Sc Marine Science", "B.Sc Oceanography"],
+        "postgraduate_options": ["M.Sc", "Ph.D."],
+        "popular_specializations": ["Marine Biology", "Physical Oceanography", "Marine Ecology"],
+        "possible_career_paths": ["Marine Scientist", "Fisheries Scientist", "Environmental Consultant"],
+        "typical_timeline": "3 years UG + 2 years PG + Ph.D. (if chosen)",
+        "notes": "Field expeditions and specialized equipment skills required."
+      },
+      {
+        "id": "geology_geosciences",
+        "title": "Geology & Earth Sciences",
+        "description": "Study of earth materials, natural resources, earthquakes, mineral exploration and environmental geology.",
+        "eligibility": "12th with PCM/PCB; geology-specific requirements vary.",
+        "recommended_12th_subjects": ["Physics", "Chemistry", "Mathematics", "Geography (if available)"],
+        "entrance_exams": ["University entrance tests; some geology departments conduct their own exams"],
+        "roadmap_steps": [
+          "Complete 12th and enroll in B.Sc Geology or related degrees.",
+          "Field camps, mapping exercises and internships in mining/exploration companies.",
+          "Pursue M.Sc/Ph.D. for advanced research or specialized industry roles.",
+          "Work in mineral exploration, oil & gas, environmental consulting, or academia."
+        ],
+        "undergraduate_options": ["B.Sc Geology", "B.Sc Earth Sciences"],
+        "postgraduate_options": ["M.Sc", "Ph.D."],
+        "popular_specializations": ["Mineralogy", "Petroleum Geology", "Environmental Geology"],
+        "possible_career_paths": ["Geologist", "Exploration Scientist", "Environmental Consultant"],
+        "typical_timeline": "3 years UG + 2 years PG (optional)",
+        "notes": "Fieldwork and practical mapping skills are core to the field."
+      },
+      {
+        "id": "astronomy_astrophysics",
+        "title": "Astronomy & Astrophysics",
+        "description": "Study of celestial bodies, cosmology, observational and theoretical astronomy.",
+        "eligibility": "12th with PCM/Maths strongly recommended.",
+        "recommended_12th_subjects": ["Physics", "Mathematics"],
+        "entrance_exams": ["University admissions for B.Sc; MSc/Ph.D. through national programs and institute-specific tests"],
+        "roadmap_steps": [
+          "Complete 12th and pursue B.Sc in Physics/Applied Physics or related subject.",
+          "Take electives in astrophysics/astronomy and gain programming & data-analysis skills.",
+          "Pursue M.Sc and then Ph.D. in Astrophysics for research roles.",
+          "Work at observatories, research institutions, space agencies or academia."
+        ],
+        "undergraduate_options": ["B.Sc Physics", "B.Sc (Astronomy & Astrophysics where available)"],
+        "postgraduate_options": ["M.Sc", "Ph.D."],
+        "popular_specializations": ["Observational Astronomy", "Theoretical Astrophysics", "Cosmology"],
+        "possible_career_paths": ["Researcher", "Observatory Scientist", "Data Analyst in space science"],
+        "typical_timeline": "3 years UG + 2 years PG + Ph.D.",
+        "notes": "Strong math & programming ability essential; international collaboration common."
+      },
+      {
+        "id": "interdisciplinary_science",
+        "title": "Interdisciplinary / Emerging Fields (Biostatistics, Nanotechnology, Materials Science)",
+        "description": "Careers at the intersection of disciplines — materials research, nanotech, bioinformatics, biostatistics.",
+        "eligibility": "12th with PCM/PCB depending on field.",
+        "recommended_12th_subjects": ["Mathematics", "Physics", "Chemistry", "Biology (as applicable)"],
+        "entrance_exams": ["University/Institute specific; some require GATE/JAM/other PG tests for advanced entry"],
+        "roadmap_steps": [
+          "Choose relevant UG (B.Sc/B.Tech) with strong core subject knowledge.",
+          "Engage in interdisciplinary projects, internships and lab rotations.",
+          "Pursue specialized PG degrees (M.Tech, M.Sc, MS) or research fellowships.",
+          "Work in R&D labs, high-tech manufacturing, biotech or computational research roles."
+        ],
+        "undergraduate_options": ["B.Tech (Materials/Nanotechnology)", "B.Sc (Bioinformatics/Biostatistics)"],
+        "postgraduate_options": ["M.Tech", "MSc", "Ph.D."],
+        "popular_specializations": ["Materials Science", "Nanotechnology", "Bioinformatics", "Biostatistics"],
+        "possible_career_paths": ["R&D Scientist", "Computational Biologist", "Materials Engineer"],
+        "typical_timeline": "3-4 years UG + 2 years PG + Ph.D. (if research oriented)",
+        "notes": "Strong research orientation and lab skills important; collaborations across departments common."
+      }
+    ]
+  }
+}
